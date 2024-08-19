@@ -17,7 +17,7 @@ import { pageInformationAPI } from "../GetPageInfo";
 import ReactQuill from 'react-quill';
 import 'react-quill/dist/quill.snow.css';
 
-// Function to parse CSV string into an array of objects
+// Function to parse CSV string into an array of objects-
 const parseCSV = (csv) => {
   const lines = csv.split("\n");
   const headers = lines[0].split(",");
