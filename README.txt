@@ -13,9 +13,8 @@ S.No	Ticket	Name	Start Date	Stage
 10	DN-34(issue)	Create Test it for Temporal Information Extraction	18/08/2024   	Committed
 
 
+------------------------------------------------------------------------------------------------------------------------
 ## Git Requests
-__Git Requests__
-**Git Requests**
 
 git pull
 
