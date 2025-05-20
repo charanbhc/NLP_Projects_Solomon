@@ -1,4 +1,4 @@
-#Status tickets
+**Status tickets**
 
 S.No	Ticket	Name	Start Date	Stage
 1	DN-79	Create Test it for Product Recommendation  	29/04/2024	Deployed
@@ -13,7 +13,7 @@ S.No	Ticket	Name	Start Date	Stage
 10	DN-34(issue)	Create Test it for Temporal Information Extraction	18/08/2024   	Committed
 
 
-#Git Requests
+**Git Requests
 git pull
 
 git branch charanbhc_bn_DN_109_f
